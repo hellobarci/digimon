@@ -32,10 +32,16 @@
   { "name": "Tsumemon", "post": [] },
 
 
-  { "name": "Choromon", "post": [] },
+  { "name": "Choromon", "post": ["Kapurimon"] },
+
+  { "name": "Kapurimon", "post": [] },
 
 
-  { "name": "Dodomon", "post": [] }
+
+  { "name": "Dodomon", "post": ["Wanyamon", "Dorimon"] },
+
+  { "name": "Wanyamon", "post": [] },
+  { "name": "Dorimon", "post": [] }
 
 
 ]
