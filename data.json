@@ -29,7 +29,13 @@
   { "name": "Gazimon", "post": [] },
   { "name": "Otamamon", "post": [] },
 
-  { "name": "Tsumemon", "post": [] },
+  { "name": "Tsumemon", "post": ["Dracmon", "Shamamon", "Keramon", "Tsumemon4", "Tsumemon5"] },
+
+  { "name": "Dracmon", "post": [] },
+  { "name": "Shamamon", "post": [] },
+  { "name": "Keramon", "post": [] },
+  { "name": "Tsumemon4", "post": [] },
+  { "name": "Tsumemon5", "post": [] },
 
 
   { "name": "Choromon", "post": ["Kapurimon"] },
