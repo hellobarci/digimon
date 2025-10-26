@@ -8,10 +8,10 @@
   { "name": "Wormmon", "post": [] },
   { "name": "Gotsumon", "post": [] },
 
-  { "name": "Yokomon", "post": ["Biyomon", "Yoko - ?", "Yoko - ??", "Yoko - ???", "Hyokomon", "Muchomon"] },
+  { "name": "Yokomon", "post": ["Biyomon", "Penmon", "Yoko - ??", "Yoko - ???", "Hyokomon", "Muchomon"] },
 
   { "name": "Biyomon", "post": [] },
-  { "name": "Yoko - ?", "post": [] },
+  { "name": "Penmon", "post": [] },
   { "name": "Yoko - ??", "post": [] },
   { "name": "Yoko - ???", "post": [] },
   { "name": "Hyokomon", "post": [] },
