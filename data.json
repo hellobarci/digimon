@@ -51,7 +51,14 @@
 
   { "name": "Dodomon", "post": ["Wanyamon", "Dorimon"] },
 
-  { "name": "Wanyamon", "post": [] },
+  { "name": "Wanyamon", "post": ["Wanya1", "Tapirmon", "Wanya3", "Wanya3"] },
+  { "name": "Wanya1", "post": [] },
+  { "name": "Tapirmon", "post": [] },
+  { "name": "Wanya3", "post": [] },
+  { "name": "Wanya4", "post": [] },
+
+
+
   { "name": "Dorimon", "post": [] },
 
 
