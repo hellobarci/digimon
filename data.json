@@ -21,11 +21,11 @@
   { "name": "Yoko - ????", "post": [] },
   { "name": "Muchomon", "post": [] },
 
-  { "name": "Pagumon", "post": ["Impmon", "DemiDevimon", "Gazimon", "Pagu4mon"] },
+  { "name": "Pagumon", "post": ["Impmon", "DemiDevimon", "Gazimon", "Otamamon"] },
   { "name": "Tsumemon", "post": [] },
 
   { "name": "Impmon", "post": [] },
   { "name": "DemiDevimon", "post": [] },
   { "name": "Gazimon", "post": [] },
-  { "name": "Pagu4mon", "post": [] }
+  { "name": "Otamamon", "post": [] }
 ]
