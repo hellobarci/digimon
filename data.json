@@ -1,22 +1,19 @@
 [
-//Training 1
+
   { "name": "Pabumon", "post": ["Motimon", "Yokomon", "Tanemon"] },
   { "name": "Kuramon", "post": ["Pagumon", "Tsumemon"] },
   { "name": "Choromon", "post": [] },
   { "name": "Dodomon", "post": [] },
 
-//Pabumon - Training 2
   { "name": "Motimon", "post": ["Moti - ?", "Tentomon", "Wormmon", "Gotsumon"] },
   { "name": "Yokomon", "post": ["Biyomon", "Yoko - ?", "Yoko - ??", "Yoko - ???", "Yoko - ????", "Muchomon"] },
   { "name": "Tanemon", "post": [] },
 
-//Motimon - Rookie
   { "name": "Moti - ?", "post": [] },
   { "name": "Tentomon", "post": [] },
   { "name": "Wormmon", "post": [] },
   { "name": "Gotsumon", "post": [] },
 
-//Yokomon - Rookie
   { "name": "Biyomon", "post": [] },
   { "name": "Yoko - ?", "post": [] },
   { "name": "Yoko - ??", "post": [] },
@@ -24,9 +21,6 @@
   { "name": "Yoko - ????", "post": [] },
   { "name": "Muchomon", "post": [] },
 
-//Tanemon - Rookie
-
-//Kuramon - Training 2
   { "name": "Pagumon", "post": [] },
   { "name": "Tsumemon", "post": [] }
 ]
