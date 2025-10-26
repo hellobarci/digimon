@@ -52,7 +52,19 @@
   { "name": "Dodomon", "post": ["Wanyamon", "Dorimon"] },
 
   { "name": "Wanyamon", "post": [] },
-  { "name": "Dorimon", "post": [] }
+  { "name": "Dorimon", "post": [] },
 
+
+  { "name": "Botamon", "post": ["Koromon"] },
+
+  { "name": "Koromon", "post": [] },
+
+
+
+  { "name": "Bukamon0", "post": [] },
+
+
+
+  { "name": "Punimon", "post": [] }
 
 ]
