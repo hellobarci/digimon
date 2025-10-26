@@ -1,18 +1,14 @@
 [
-
   { "name": "Pabumon", "post": ["Motimon", "Yokomon", "Tanemon"] },
-  { "name": "Kuramon", "post": ["Pagumon", "Tsumemon"] },
-  { "name": "Choromon", "post": [] },
-  { "name": "Dodomon", "post": [] },
 
   { "name": "Motimon", "post": ["Chuumon", "Tentomon", "Wormmon", "Gotsumon"] },
-  { "name": "Yokomon", "post": ["Biyomon", "Yoko - ?", "Yoko - ??", "Yoko - ???", "Yoko - ????", "Muchomon"] },
-  { "name": "Tanemon", "post": [] },
 
   { "name": "Chuumon", "post": [] },
   { "name": "Tentomon", "post": [] },
   { "name": "Wormmon", "post": [] },
   { "name": "Gotsumon", "post": [] },
+
+  { "name": "Yokomon", "post": ["Biyomon", "Yoko - ?", "Yoko - ??", "Yoko - ???", "Yoko - ????", "Muchomon"] },
 
   { "name": "Biyomon", "post": [] },
   { "name": "Yoko - ?", "post": [] },
@@ -21,11 +17,25 @@
   { "name": "Yoko - ????", "post": [] },
   { "name": "Muchomon", "post": [] },
 
+  { "name": "Tanemon", "post": [] },
+
+
+  { "name": "Kuramon", "post": ["Pagumon", "Tsumemon"] },
+
   { "name": "Pagumon", "post": ["Impmon", "DemiDevimon", "Gazimon", "Otamamon"] },
-  { "name": "Tsumemon", "post": [] },
 
   { "name": "Impmon", "post": [] },
   { "name": "DemiDevimon", "post": [] },
   { "name": "Gazimon", "post": [] },
-  { "name": "Otamamon", "post": [] }
+  { "name": "Otamamon", "post": [] },
+
+  { "name": "Tsumemon", "post": [] },
+
+
+  { "name": "Choromon", "post": [] },
+
+
+  { "name": "Dodomon", "post": [] }
+
+
 ]
