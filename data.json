@@ -50,12 +50,12 @@
 
   { "name": "Dodomon", "post": ["Wanyamon", "Dorimon"] },
 
-  { "name": "Wanyamon", "post": ["Wanya1", "Tapirmon", "Wanya3", "Wanya4"] },
+  { "name": "Wanyamon", "post": ["Gaomon", "Tapirmon", "Bearmon", "Renamon"] },
 
-  { "name": "Wanya1", "post": [] },
+  { "name": "Gaomon", "post": [] },
   { "name": "Tapirmon", "post": [] },
-  { "name": "Wanya3", "post": [] },
-  { "name": "Wanya4", "post": [] },
+  { "name": "Bearmon", "post": [] },
+  { "name": "Renamon", "post": [] },
 
   { "name": "Dorimon", "post": ["Dorumon", "Monodramon", "SnowGoblimon", "Lopmon"] },
 
