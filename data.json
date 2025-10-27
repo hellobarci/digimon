@@ -67,7 +67,13 @@
 
   { "name": "Poyomon", "post": ["Bukamon"] },
 
-  { "name": "Bukamon", "post": [] },
+  { "name": "Bukamon", "post": ["Bukamon1", "Bukamon2", "Bukamon3", "Gizamon", "Bukamon5"] },
+
+  { "name": "Bukamon1", "post": [] },
+  { "name": "Bukamon2", "post": [] },
+  { "name": "Bukamon3", "post": [] },
+  { "name": "Gizamon", "post": [] },
+  { "name": "Bukamon5", "post": [] },
 
 
   { "name": "Punimon", "post": [] }
