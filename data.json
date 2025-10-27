@@ -67,10 +67,17 @@
 
   { "name": "Botamon", "post": ["Koromon"] },
 
-  { "name": "Koromon", "post": [] },
+  { "name": "Koromon", "post": ["Agumon", "Guilmon", "Dracomon", "Kotemon", "Betamon", "Shoutmon"] },
+
+  { "name": "Agumon", "post": [] },
+  { "name": "Guilmon", "post": [] },
+  { "name": "Dracomon", "post": [] },
+  { "name": "Kotemon", "post": [] },
+  { "name": "Betamon", "post": [] },
+  { "name": "Shoutmon", "post": [] },
 
 
-  { "name": "Poyomon", "post": ["Bukamon"] },
+  { "name": "Poyomon", "post": ["Bukamon", "Poyo2"] },
 
   { "name": "Bukamon", "post": ["Bukamon1", "Bukamon2", "Bukamon3", "Gizamon", "Bukamon5"] },
 
@@ -79,6 +86,8 @@
   { "name": "Bukamon3", "post": [] },
   { "name": "Gizamon", "post": [] },
   { "name": "Bukamon5", "post": [] },
+
+  { "name": "Poyo2", "post": [] },
 
 
   { "name": "Punimon", "post": [] }
