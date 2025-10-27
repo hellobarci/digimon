@@ -5,9 +5,6 @@ async function loadTree() {
   const ctx = canvas.getContext("2d");
   const crafted = JSON.parse(localStorage.getItem("craftedItems") || "[]");
 
-  canvas.width = window.innerWidth;
-  canvas.height = window.innerHeight;
-
   // --- Infer "pre" relationships from "post" ---
   const nameToItem = Object.fromEntries(data.map(x => [x.name, x]));
   data.forEach(item => {
@@ -31,8 +28,8 @@ async function loadTree() {
   // --- find roots ---
   const roots = data.filter(n => n.pre.length === 0);
 
-  const positions = new Map(); // name -> {row, col}
-  const branches = []; // list of [from, to]
+  const positions = new Map();
+  const branches = [];
   let currentRow = 0;
 
   function placeBranch(node, col = 0, row = currentRow) {
@@ -54,16 +51,15 @@ async function loadTree() {
 
   roots.forEach(root => placeBranch(root));
 
-  // --- layout ---
   const numRows = Math.max(...Array.from(positions.values()).map(p => p.row)) + 1;
   const numCols = Math.max(...Array.from(positions.values()).map(p => p.col)) + 1;
 
   treeContainer.style.display = "grid";
   treeContainer.style.gridTemplateColumns = `repeat(${numCols}, 160px)`;
-  treeContainer.style.gridTemplateRows = `repeat(${numRows}, 40px)`; // smaller height
-  treeContainer.style.gap = "4px 40px"; // tighter row spacing
+  treeContainer.style.gridTemplateRows = `repeat(${numRows}, 40px)`;
+  treeContainer.style.gap = "4px 40px";
+  treeContainer.style.position = "relative"; // ensure child canvas positions correctly
 
-  // --- render nodes ---
   const nodeElements = {};
   data.forEach(node => {
     const pos = positions.get(node.name);
@@ -93,7 +89,6 @@ async function loadTree() {
       localStorage.setItem("craftedItems", JSON.stringify(crafted));
     });
 
-    // Click anywhere to toggle checkbox
     el.addEventListener("click", e => {
       if (e.target.tagName !== "INPUT") {
         checkbox.checked = !checkbox.checked;
@@ -105,14 +100,26 @@ async function loadTree() {
     nodeElements[node.name] = el;
   });
 
+  // --- Resize canvas to match container and layer behind ---
+  const rect = treeContainer.getBoundingClientRect();
+  canvas.width = rect.width;
+  canvas.height = rect.height;
+  canvas.style.position = "absolute";
+  canvas.style.top = "0";
+  canvas.style.left = "0";
+  canvas.style.zIndex = "0";
+  treeContainer.appendChild(canvas);
+
   // --- draw connections ---
-  requestAnimationFrame(() => drawConnections(branches, nodeElements, ctx));
+  requestAnimationFrame(() => drawConnections(branches, nodeElements, ctx, treeContainer));
 }
 
-function drawConnections(branches, nodeElements, ctx) {
+function drawConnections(branches, nodeElements, ctx, container) {
   ctx.clearRect(0, 0, ctx.canvas.width, ctx.canvas.height);
   ctx.strokeStyle = "#777";
   ctx.lineWidth = 2;
+
+  const containerRect = container.getBoundingClientRect();
 
   branches.forEach(([from, to]) => {
     const a = nodeElements[from];
@@ -122,12 +129,13 @@ function drawConnections(branches, nodeElements, ctx) {
     const ra = a.getBoundingClientRect();
     const rb = b.getBoundingClientRect();
 
-    const x1 = ra.right + window.scrollX;
-    const y1 = ra.top + ra.height / 2 + window.scrollY;
-    const x2 = rb.left + window.scrollX;
-    const y2 = rb.top + rb.height / 2 + window.scrollY;
+    // positions relative to container
+    const x1 = ra.right - containerRect.left;
+    const y1 = ra.top + ra.height / 2 - containerRect.top;
+    const x2 = rb.left - containerRect.left;
+    const y2 = rb.top + rb.height / 2 - containerRect.top;
 
-    const midX = (x1 + x2) / 2; // midpoint for L-shape
+    const midX = (x1 + x2) / 2;
 
     ctx.beginPath();
     ctx.moveTo(x1, y1);

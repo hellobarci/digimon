@@ -10,9 +10,10 @@ body {
 
 .tree {
   display: grid;
-  position: relative;
+  position: relative; /* required so the canvas aligns relative to it */
   z-index: 1;
-  gap: 4px 30px; /* tighter spacing vertically */
+  gap: 4px 30px;
+  width: max-content; /* makes sure the canvas fits the full grid width */
 }
 
 .item {
