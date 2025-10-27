@@ -87,11 +87,11 @@
   { "name": "Gizamon", "post": [] },
   { "name": "Bukamon5", "post": [] },
 
-  { "name": "Tokomon", "post": ["Tokomon1", "Tokomon2", "Tokomon3", "Tokomon4", "Tokomon5"] },
+  { "name": "Tokomon", "post": ["Tokomon1", "Tokomon2", "Terriermon", "Tokomon4", "Tokomon5"] },
 
   { "name": "Tokomon1", "post": [] },
   { "name": "Tokomon2", "post": [] },
-  { "name": "Tokomon3", "post": [] },
+  { "name": "Terriermon", "post": [] },
   { "name": "Tokomon4", "post": [] },
   { "name": "Tokomon5", "post": [] },
 
