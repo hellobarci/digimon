@@ -107,11 +107,11 @@
   { "name": "Tsunomon5", "post": [] },
   { "name": "Tsunomon6", "post": [] },
 
-  { "name": "Nyaromon", "post": ["Nyaromon1", "Nyaromon2", "Nyaromon3", "Huckmon"] },
+  { "name": "Nyaromon", "post": ["Nyaromon1", "Kudamon", "Salamon", "Huckmon"] },
 
   { "name": "Nyaromon1", "post": [] },
-  { "name": "Nyaromon2", "post": [] },
-  { "name": "Nyaromon3", "post": [] },
+  { "name": "Kudamon", "post": [] },
+  { "name": "Salamon", "post": [] },
   { "name": "Huckmon", "post": [] }
 
 ]
