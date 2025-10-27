@@ -90,5 +90,22 @@
   { "name": "Poyo2", "post": [] },
 
 
-  { "name": "Punimon", "post": [] }
+  { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
+
+  { "name": "Tsunomon", "post": ["Tsunomon1", "Tsunomon2", "Tsunomon3", "Ryudamon", "Tsunomon5", "Tsunomon6"] },
+
+  { "name": "Tsunomon1", "post": [] },
+  { "name": "Tsunomon2", "post": [] },
+  { "name": "Tsunomon3", "post": [] },
+  { "name": "Ryudamon", "post": [] },
+  { "name": "Tsunomon5", "post": [] },
+  { "name": "Tsunomon6", "post": [] },
+
+  { "name": "Nyaromon", "post": ["Nyaromon1", "Nyaromon2", "Nyaromon3", "Huckmon"] },
+
+  { "name": "Nyaromon1", "post": [] },
+  { "name": "Nyaromon2", "post": [] },
+  { "name": "Nyaromon3", "post": [] },
+  { "name": "Huckmon", "post": [] }
+
 ]
