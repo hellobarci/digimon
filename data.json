@@ -77,7 +77,7 @@
   { "name": "Shoutmon", "post": [] },
 
 
-  { "name": "Poyomon", "post": ["Bukamon", "Poyo2"] },
+  { "name": "Poyomon", "post": ["Bukamon", "Tokomon"] },
 
   { "name": "Bukamon", "post": ["Bukamon1", "Bukamon2", "Bukamon3", "Gizamon", "Bukamon5"] },
 
@@ -87,7 +87,13 @@
   { "name": "Gizamon", "post": [] },
   { "name": "Bukamon5", "post": [] },
 
-  { "name": "Poyo2", "post": [] },
+  { "name": "Tokomon", "post": ["Tokomon1", "Tokomon2", "Tokomon3", "Tokomon4", "Tokomon5"] },
+
+  { "name": "Tokomon1", "post": [] },
+  { "name": "Tokomon2", "post": [] },
+  { "name": "Tokomon3", "post": [] },
+  { "name": "Tokomon4", "post": [] },
+  { "name": "Tokomon5", "post": [] },
 
 
   { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
