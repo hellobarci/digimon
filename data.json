@@ -98,13 +98,13 @@
 
   { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
 
-  { "name": "Tsunomon", "post": ["Goblimon", "Tsunomon2", "Tsunomon3", "Ryudamon", "Tsunomon5", "Tsunomon6"] },
+  { "name": "Tsunomon", "post": ["Goblimon", "Tsunomon2", "Tsunomon3", "Ryudamon", "Elecmon", "Tsunomon6"] },
 
   { "name": "Goblimon", "post": [] },
   { "name": "Tsunomon2", "post": [] },
   { "name": "Tsunomon3", "post": [] },
   { "name": "Ryudamon", "post": [] },
-  { "name": "Tsunomon5", "post": [] },
+  { "name": "Elecmon", "post": [] },
   { "name": "Tsunomon6", "post": [] },
 
   { "name": "Nyaromon", "post": ["Nyaromon1", "Kudamon", "Salamon", "Huckmon"] },
