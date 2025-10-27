@@ -50,7 +50,7 @@
 
   { "name": "Dodomon", "post": ["Wanyamon", "Dorimon"] },
 
-  { "name": "Wanyamon", "post": ["Wanya1", "Tapirmon", "Wanya3", "Wanya3"] },
+  { "name": "Wanyamon", "post": ["Wanya1", "Tapirmon", "Wanya3", "Wanya4"] },
 
   { "name": "Wanya1", "post": [] },
   { "name": "Tapirmon", "post": [] },
@@ -71,5 +71,4 @@
 
 
   { "name": "Punimon", "post": [] }
-
 ]
