@@ -98,9 +98,9 @@
 
   { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
 
-  { "name": "Tsunomon", "post": ["Tsunomon1", "Tsunomon2", "Tsunomon3", "Ryudamon", "Tsunomon5", "Tsunomon6"] },
+  { "name": "Tsunomon", "post": ["Goblimon", "Tsunomon2", "Tsunomon3", "Ryudamon", "Tsunomon5", "Tsunomon6"] },
 
-  { "name": "Tsunomon1", "post": [] },
+  { "name": "Goblimon", "post": [] },
   { "name": "Tsunomon2", "post": [] },
   { "name": "Tsunomon3", "post": [] },
   { "name": "Ryudamon", "post": [] },
