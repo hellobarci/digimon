@@ -40,10 +40,10 @@
 
   { "name": "Choromon", "post": ["Kapurimon"] },
 
-  { "name": "Kapurimon", "post": ["Hagurumon", "Kapurimon2", "ToyAgumon", "Solarmon"] },
+  { "name": "Kapurimon", "post": ["Hagurumon", "Kokuwamon", "ToyAgumon", "Solarmon"] },
 
   { "name": "Hagurumon", "post": [] },
-  { "name": "Kapurimon2", "post": [] },
+  { "name": "Kokuwamon", "post": [] },
   { "name": "ToyAgumon", "post": [] },
   { "name": "Solarmon", "post": [] },
 
