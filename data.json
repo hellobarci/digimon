@@ -25,7 +25,15 @@
   { "name": "Pagumon", "post": ["Impmon", "DemiDevimon", "Gazimon", "Otamamon"] },
 
   { "name": "Impmon", "post": [] },
-  { "name": "DemiDevimon", "post": [] },
+  { "name": "DemiDevimon", "post": ["DemiDevimon1", "IceDevimon", "DemiDevimon3", "DemiDevimon4", "Greymon (Blue)"] },
+
+  { "name": "DemiDevimon1", "post": [] },
+  { "name": "IceDevimon", "post": [] },
+  { "name": "DemiDevimon3", "post": [] },
+  { "name": "DemiDevimon4", "post": [] },
+  { "name": "Greymon (Blue)", "post": [] },
+
+
   { "name": "Gazimon", "post": [] },
   { "name": "Otamamon", "post": [] },
 
