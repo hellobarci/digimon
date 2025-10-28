@@ -50,16 +50,21 @@
 
   { "name": "Kapurimon", "post": ["Hagurumon", "Kokuwamon", "ToyAgumon", "Solarmon"] },
 
-  { "name": "Hagurumon", "post": [] },
+  { "name": "Hagurumon", "post": ["Hagurumon1", "Hagurumon2", "Tankmon", "Guardromon", "Hagurumon5"] },
+
+  { "name": "Hagurumon1", "post": [] },
+  { "name": "Hagurumon2", "post": [] },
+  { "name": "Tankmon", "post": [] },
+  { "name": "Guardromon", "post": [] },
+  { "name": "Hagurumon5", "post": [] },
+  
   { "name": "Kokuwamon", "post": [] },
   { "name": "ToyAgumon", "post": ["ToyAgumon1", "ToyAgumon2", "Raremon", "Tankmon", "ToyAgumon5"] },
 
   { "name": "ToyAgumon1", "post": [] },
   { "name": "ToyAgumon2", "post": [] },
   { "name": "Raremon", "post": [] },
-  { "name": "Tankmon", "post": [] },
   { "name": "ToyAgumon5", "post": [] },
-
 
   { "name": "Solarmon", "post": [] },
 
@@ -90,8 +95,12 @@
   { "name": "Dracomon", "post": [] },
   { "name": "Kotemon", "post": [] },
   { "name": "Betamon", "post": [] },
-  { "name": "Shoutmon", "post": [] },
+  { "name": "Shoutmon", "post": ["Shoutmon1", "ZubaEagermon", "Shoutmon3", "Shoutmon4"] },
 
+  { "name": "Shoutmon1", "post": [] },
+  { "name": "ZubaEagermon", "post": [] },
+  { "name": "Shoutmon3", "post": [] },
+  { "name": "Shoutmon4", "post": [] },
 
   { "name": "Poyomon", "post": ["Bukamon", "Tokomon"] },
 
