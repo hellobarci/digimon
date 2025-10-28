@@ -79,13 +79,13 @@
 
   { "name": "Poyomon", "post": ["Bukamon", "Tokomon"] },
 
-  { "name": "Bukamon", "post": ["Bukamon1", "Bukamon2", "Bukamon3", "Gizamon", "Bukamon5"] },
+  { "name": "Bukamon", "post": ["Bukamon1", "Bukamon2", "Bukamon3", "Gizamon", "Syakomon"] },
 
   { "name": "Bukamon1", "post": [] },
   { "name": "Bukamon2", "post": [] },
   { "name": "Bukamon3", "post": [] },
   { "name": "Gizamon", "post": [] },
-  { "name": "Bukamon5", "post": [] },
+  { "name": "Syakomon", "post": [] },
 
   { "name": "Tokomon", "post": ["Tokomon1", "Tokomon2", "Terriermon", "Tokomon4", "Tokomon5"] },
 
