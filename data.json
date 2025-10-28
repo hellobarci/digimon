@@ -52,7 +52,15 @@
 
   { "name": "Hagurumon", "post": [] },
   { "name": "Kokuwamon", "post": [] },
-  { "name": "ToyAgumon", "post": [] },
+  { "name": "ToyAgumon", "post": ["ToyAgumon1", "ToyAgumon2", "Raremon", "Tankmon", "ToyAgumon5"] },
+
+  { "name": "ToyAgumon1", "post": [] },
+  { "name": "ToyAgumon2", "post": [] },
+  { "name": "Raremon", "post": [] },
+  { "name": "Tankmon", "post": [] },
+  { "name": "ToyAgumon5", "post": [] },
+
+
   { "name": "Solarmon", "post": [] },
 
 
