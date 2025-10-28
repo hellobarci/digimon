@@ -107,9 +107,9 @@
   { "name": "Elecmon", "post": [] },
   { "name": "Tsunomon6", "post": [] },
 
-  { "name": "Nyaromon", "post": ["Nyaromon1", "Kudamon", "Salamon", "Huckmon"] },
+  { "name": "Nyaromon", "post": ["Lunamon", "Kudamon", "Salamon", "Huckmon"] },
 
-  { "name": "Nyaromon1", "post": [] },
+  { "name": "Lunamon", "post": [] },
   { "name": "Kudamon", "post": [] },
   { "name": "Salamon", "post": [] },
   { "name": "Huckmon", "post": [] }
