@@ -141,7 +141,12 @@
   { "name": "Keramon4", "post": [] },
   { "name": "Kurisarimon", "post": [] },
   
-  { "name": "Agumon (Black)", "post": [] },
+  { "name": "Agumon (Black)", "post": ["Strikedramon", "Tuskmon", "Agumon (Black)3", "Coredramon (Blue)", "Greymon (Blue)"] },
+
+  { "name": "Tuskmon", "post": [] },
+  { "name": "Agumon (Black)3", "post": [] },
+  { "name": "Greymon (Blue)", "post": [] },
+  
   { "name": "Gabumon (Black)", "post": [] },
 
 
@@ -265,7 +270,14 @@
   { "name": "Dracomon4", "post": [] },
   { "name": "Dracomon6", "post": [] },
   
-  { "name": "Kotemon", "post": [] },
+  { "name": "Kotemon", "post": ["Turuiemon", "Kotemon2", "Kotemon3", "Kotemon4", "Kotemon5"] },
+
+  { "name": "Turuiemon", "post": [] },
+  { "name": "Kotemon2", "post": [] },
+  { "name": "Kotemon3", "post": [] },
+  { "name": "Kotemon4", "post": [] },
+  { "name": "Kotemon5", "post": [] },
+  
   { "name": "Betamon", "post": ["Seadramon", "Coelamon", "Betamon3", "Numemon", "Vegiemon", "Betamon6"] },
 
   { "name": "Coelamon", "post": [] },
@@ -315,7 +327,15 @@
 
   { "name": "Tokomon", "post": ["Patamon", "Coronamon", "Terriermon", "Armadillomon", "Tokomon5"] },
 
-  { "name": "Patamon", "post": [] },
+  { "name": "Patamon", "post": ["Angemon", "Patamon2", "Patamon3", "Patamon4", "Patamon5", "Patamon6"] },
+
+  { "name": "Angemon", "post": [] },
+  { "name": "Patamon2", "post": [] },
+  { "name": "Patamon3", "post": [] },
+  { "name": "Patamon4", "post": [] },
+  { "name": "Patamon5", "post": [] },
+  { "name": "Patamon6", "post": [] },
+  
   { "name": "Coronamon", "post": [] },
   { "name": "Terriermon", "post": ["Mojyamon", "Terriermon2", "Terriermon3", "Gargomon", "Terriermon5"] },
 
