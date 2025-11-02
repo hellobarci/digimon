@@ -26,12 +26,12 @@
   { "name": "Dokugumon", "post": [] },
   { "name": "Wormmon3", "post": [] },
 
-  { "name": "Gotsumon", "post": ["Gotsumon1", "Guardromon", "Gotsumon3", "Gotsumon4", "Gotsumon5", "Gotsumon6"] },
+  { "name": "Gotsumon", "post": ["Gotsumon1", "Guardromon", "Gotsumon3", "Gotsumon4", "Monochromon", "Gotsumon6"] },
 
   { "name": "Gotsumon1", "post": [] },
   { "name": "Gotsumon3", "post": [] },
   { "name": "Gotsumon4", "post": [] },
-  { "name": "Gotsumon5", "post": [] },
+  { "name": "Monochromon", "post": [] },
   { "name": "Gotsumon6", "post": [] },
 
   { "name": "Yokomon", "post": ["Biyomon", "Penmon", "Falcomon", "Hawkmon", "Hyokomon", "Muchomon"] },
