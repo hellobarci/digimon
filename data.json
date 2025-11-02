@@ -50,10 +50,10 @@
   { "name": "Kiwimon", "post": [] },
   { "name": "Penmon4", "post": [] },
   
-  { "name": "Falcomon", "post": ["Falcomon1", "Falcomon2", "Kiwimon"] },
+  { "name": "Falcomon", "post": ["Falcomon1", "Ginryumon", "Kiwimon"] },
 
   { "name": "Falcomon1", "post": [] },
-  { "name": "Falcomon2", "post": [] },
+  { "name": "Ginryumon", "post": [] },
   
   { "name": "Hawkmon", "post": ["Hawkmon1", "Hawkmon2", "Hawkmon3", "Hawkmon4"] },
 
