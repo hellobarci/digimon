@@ -295,11 +295,11 @@
 
   { "name": "Bukamon", "post": ["Kamemon", "Crabmon", "Gomamon", "Gizamon", "Syakomon"] },
 
-  { "name": "Kamemon", "post": ["Kamemon1", "Kamemon2", "Kamemon3", "ShellNumemon", "Kamemon5", "Kamemon6"] },
+  { "name": "Kamemon", "post": ["Kamemon1", "Kamemon2", "Octomon", "ShellNumemon", "Kamemon5", "Kamemon6"] },
 
   { "name": "Kamemon1", "post": [] },
   { "name": "Kamemon2", "post": [] },
-  { "name": "Kamemon3", "post": [] },
+  { "name": "Octomon", "post": [] },
   { "name": "Kamemon5", "post": [] },
   { "name": "Kamemon6", "post": [] },
   
