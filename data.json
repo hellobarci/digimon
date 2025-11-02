@@ -336,7 +336,15 @@
   { "name": "Patamon5", "post": [] },
   { "name": "Patamon6", "post": [] },
   
-  { "name": "Coronamon", "post": [] },
+  { "name": "Coronamon", "post": ["Firamon", "Coronamon2", "Coronamon3", "Coronamon4", "Coronamon5", "Coronamon6"] },
+
+  { "name": "Firamon", "post": [] },
+  { "name": "Coronamon2", "post": [] },
+  { "name": "Coronamon3", "post": [] },
+  { "name": "Coronamon4", "post": [] },
+  { "name": "Coronamon5", "post": [] },
+  { "name": "Coronamon6", "post": [] },
+
   { "name": "Terriermon", "post": ["Mojyamon", "Terriermon2", "Terriermon3", "Gargomon", "Terriermon5"] },
 
   { "name": "Mojyamon", "post": [] },
