@@ -93,11 +93,11 @@
   { "name": "Impmon5", "post": [] },
   { "name": "Impmon6", "post": [] },
   
-  { "name": "DemiDevimon", "post": ["DemiDevimon1", "IceDevimon", "DemiDevimon3", "DemiDevimon4", "Greymon (Blue)"] },
+  { "name": "DemiDevimon", "post": ["DemiDevimon1", "IceDevimon", "Devimon", "DemiDevimon4", "Greymon (Blue)"] },
 
   { "name": "DemiDevimon1", "post": [] },
   { "name": "IceDevimon", "post": [] },
-  { "name": "DemiDevimon3", "post": [] },
+  { "name": "Devimon", "post": [] },
   { "name": "DemiDevimon4", "post": [] },
   { "name": "Greymon (Blue)", "post": [] },
 
