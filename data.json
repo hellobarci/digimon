@@ -77,9 +77,17 @@
   { "name": "Muchomon4", "post": [] },
   
 
-  { "name": "Tanemon", "post": [] },
+  { "name": "Tanemon", "post": ["FunBeemon"] },
 
+  { "name": "FunBeemon", "post": ["FunBeemon1", "FunBeemon2", "FunBeemon3", "FunBeemon4", "FunBeemon5", "FunBeemon6"] },
 
+  { "name": "FunBeemon1", "post": [] },
+  { "name": "FunBeemon2", "post": [] },
+  { "name": "FunBeemon3", "post": [] },
+  { "name": "FunBeemon4", "post": [] },
+  { "name": "FunBeemon5", "post": [] },
+  { "name": "FunBeemon6", "post": [] },
+  
   { "name": "Kuramon", "post": ["Pagumon", "Tsumemon"] },
 
   { "name": "Pagumon", "post": ["Impmon", "DemiDevimon", "Gazimon", "Otamamon"] },
@@ -270,10 +278,10 @@
   { "name": "Dracomon4", "post": [] },
   { "name": "Dracomon6", "post": [] },
   
-  { "name": "Kotemon", "post": ["Turuiemon", "Kotemon2", "Kotemon3", "Kotemon4", "Kotemon5"] },
+  { "name": "Kotemon", "post": ["Turuiemon", "Musyamon", "Kotemon3", "Kotemon4", "Kotemon5"] },
 
   { "name": "Turuiemon", "post": [] },
-  { "name": "Kotemon2", "post": [] },
+  { "name": "Musyamon", "post": [] },
   { "name": "Kotemon3", "post": [] },
   { "name": "Kotemon4", "post": [] },
   { "name": "Kotemon5", "post": [] },
@@ -386,7 +394,10 @@
   { "name": "Kudamon5", "post": [] },
   { "name": "Kudamon6", "post": [] },
   
-  { "name": "Salamon", "post": [] },
+  { "name": "Salamon", "post": ["Gatomon"] },
+
+  { "name": "Gatomon", "post": [] },
+  
   { "name": "Huckmon", "post": ["Huckmon1", "GeoGreymon", "Growlmon", "Huckmon4", "Greymon"] },
 
   { "name": "Huckmon1", "post": [] },
