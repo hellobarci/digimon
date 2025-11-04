@@ -36,9 +36,9 @@
 
   { "name": "Yokomon", "post": ["Biyomon", "Penmon", "Falcomon", "Hawkmon", "Hyokomon", "Muchomon"] },
 
-  { "name": "Biyomon", "post": ["Biyomon1", "Birdramon", "Unimon", "Biyomon4"] },
+  { "name": "Biyomon", "post": ["Aquilamon", "Birdramon", "Unimon", "Biyomon4"] },
 
-  { "name": "Biyomon1", "post": [] },
+  { "name": "Aquilamon", "post": [] },
   { "name": "Birdramon", "post": [] },
   { "name": "Unimon", "post": [] },
   { "name": "Biyomon4", "post": [] },
