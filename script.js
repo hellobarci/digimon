@@ -58,7 +58,7 @@ async function loadTree() {
   treeContainer.style.gridTemplateColumns = `repeat(${numCols}, 160px)`;
   treeContainer.style.gridTemplateRows = `repeat(${numRows}, 40px)`;
   treeContainer.style.gap = "4px 40px";
-  treeContainer.style.position = "relative"; // ensure child canvas positions correctly
+  treeContainer.style.position = "relative";
 
   const nodeElements = {};
   data.forEach(node => {
@@ -147,3 +147,14 @@ function drawConnections(branches, nodeElements, ctx, container) {
 }
 
 loadTree();
+
+// --- Clear progress button ---
+document.getElementById("clearStorage").addEventListener("click", () => {
+  if (confirm("Clear all crafted progress?")) {
+    localStorage.removeItem("craftedItems");
+    document.querySelectorAll(".item").forEach(el => {
+      el.classList.remove("crafted");
+      el.querySelector(".checkbox").checked = false;
+    });
+  }
+});

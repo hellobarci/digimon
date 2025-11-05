@@ -3,9 +3,28 @@ body {
   background: #1a1a1a;
   color: #eee;
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
   padding: 20px;
   overflow-x: auto;
+}
+
+#clearStorage {
+  align-self: flex-start;
+  margin-bottom: 16px;
+  padding: 6px 12px;
+  background: #d33;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 13px;
+  transition: background 0.15s;
+}
+
+#clearStorage:hover {
+  background: #b22;
 }
 
 .tree {
