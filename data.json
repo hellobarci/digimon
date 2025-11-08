@@ -352,7 +352,7 @@
   { "name": "Syakomon4", "post": [] },
   { "name": "Syakomon5", "post": [] },
 
-  { "name": "Tokomon", "post": ["Patamon", "Coronamon", "Terriermon", "Armadillomon", "Tokomon5"] },
+  { "name": "Tokomon", "post": ["Patamon", "Coronamon", "Terriermon", "Armadillomon", "Lucemon"] },
 
   { "name": "Patamon", "post": ["Angemon", "Patamon2", "Patamon3", "Patamon4", "Patamon5", "Patamon6"] },
 
@@ -387,7 +387,7 @@
   { "name": "Armadillomon3", "post": [] },
   { "name": "Ankylomon", "post": [] },
 
-  { "name": "Tokomon5", "post": [] },
+  { "name": "Lucemon", "post": [] },
 
 
   { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
