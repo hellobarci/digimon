@@ -507,32 +507,38 @@
 
   { "name": "Nyaromon", "post": ["Lunamon", "Kudamon", "Salamon", "Huckmon"] },
 
-  { "name": "Lunamon", "post": ["Lekismon", "Lunamon2", "Lunamon3", "Lunamon4", "Lunamon5", "Lunamon6"] },
+  { "name": "Lunamon", "post": ["Lekismon", "Garurumon", "Frigimon", "Hyogamon", "Sorcermon", "Lunamon6"] },
 
   { "name": "Lekismon", "post": [] },
-  { "name": "Lunamon2", "post": [] },
-  { "name": "Lunamon3", "post": [] },
-  { "name": "Lunamon4", "post": [] },
-  { "name": "Lunamon5", "post": [] },
+  { "name": "Garurumon", "post": [] },
+  { "name": "Frigimon", "post": [] },
+  { "name": "Hyogamon", "post": [] },
+  { "name": "Sorcermon", "post": [] },
   { "name": "Lunamon6", "post": [] },
 
-  { "name": "Kudamon", "post": ["Airdramon", "Kudamon2", "Kudamon3", "Kudamon4", "Kudamon5", "Kudamon6"] },
+  { "name": "Kudamon", "post": ["Airdramon", "Reppamon", "Angemon", "Ginryumon", "Kudamon5", "Sorcermon"] },
 
   { "name": "Airdramon", "post": [] },
-  { "name": "Kudamon2", "post": [] },
-  { "name": "Kudamon3", "post": [] },
-  { "name": "Kudamon4", "post": [] },
+  { "name": "Reppamon", "post": [] },
+  { "name": "Angemon", "post": [] },
+  { "name": "Ginryumon", "post": [] },
   { "name": "Kudamon5", "post": [] },
-  { "name": "Kudamon6", "post": [] },
+  { "name": "Sorcermon", "post": [] },
   
-  { "name": "Salamon", "post": ["Gatomon"] },
+  { "name": "Salamon", "post": ["Gatomon", "Sangloupmon", "Dobermon", "Ikkakumon", "Salamon5", "Drimogemon"] },
 
   { "name": "Gatomon", "post": [] },
-  
-  { "name": "Huckmon", "post": ["Huckmon1", "GeoGreymon", "Growlmon", "Huckmon4", "Greymon"] },
+  { "name": "Sangloupmon", "post": [] },
+  { "name": "Dobermon", "post": [] },
+  { "name": "Ikkakumon", "post": [] },
+  { "name": "Salamon5", "post": [] },
+  { "name": "Drimogemon", "post": [] },
 
-  { "name": "Huckmon1", "post": [] },
+  { "name": "Huckmon", "post": ["Gatomon", "GeoGreymon", "Growlmon", "Huckmon4", "Greymon"] },
+
+  { "name": "Gatomon", "post": [] },
   { "name": "GeoGreymon", "post": [] },
   { "name": "Growlmon", "post": [] },
-  { "name": "Huckmon4", "post": [] }
+  { "name": "Huckmon4", "post": [] },
+  { "name": "Greymon", "post": [] }
 ]
