@@ -38,7 +38,6 @@
 
   { "name": "Biyomon", "post": ["Aquilamon", "Birdramon", "Unimon", "Wizardmon"] },
 
-  { "name": "Aquilamon", "post": [] },
   { "name": "Birdramon", "post": [] },
   { "name": "Unimon", "post": [] },
   { "name": "Wizardmon", "post": [] },
@@ -48,7 +47,6 @@
   { "name": "Peckmon", "post": [] },
   { "name": "Buraimon", "post": [] },
   { "name": "Kiwimon", "post": [] },
-  { "name": "Aquilamon", "post": [] },
   
   { "name": "Falcomon", "post": ["Peckmon", "Ginryumon", "Kiwimon"] },
 
