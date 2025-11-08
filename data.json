@@ -258,54 +258,57 @@
   { "name": "Unimon", "post": [] },
   { "name": "Kyubimon", "post": [] },
   
-  { "name": "Bearmon", "post": ["Bearmon1", "Bearmon2", "Mojyamon", "Bearmon4", "Bearmon5"] },
+  { "name": "Bearmon", "post": ["Grizzlymon", "Gaogamon", "Mojyamon", "Leomon", "Bearmon5"] },
 
-  { "name": "Bearmon1", "post": [] },
-  { "name": "Bearmon2", "post": [] },
+  { "name": "Grizzlymon", "post": [] },
+  { "name": "Gaogamon", "post": [] },
   { "name": "Mojyamon", "post": [] },
-  { "name": "Bearmon4", "post": [] },
+  { "name": "Leomon", "post": [] },
   { "name": "Bearmon5", "post": [] },
   
-  { "name": "Renamon", "post": ["Renamon1", "Renamon2", "Renamon3", "Renamon4", "Renamon5"] },
+  { "name": "Renamon", "post": ["Lekismon", "Sunflowmon", "Reppamon", "Kyubimon", "Renamon5"] },
 
-  { "name": "Renamon1", "post": [] },
-  { "name": "Renamon2", "post": [] },
-  { "name": "Renamon3", "post": [] },
-  { "name": "Renamon4", "post": [] },
+  { "name": "Lekismon", "post": [] },
+  { "name": "Sunflowmon", "post": [] },
+  { "name": "Reppamon", "post": [] },
+  { "name": "Kyubimon", "post": [] },
   { "name": "Renamon5", "post": [] },
 
   { "name": "Dorimon", "post": ["Dorumon", "Monodramon", "SnowGoblimon", "Lopmon"] },
 
-  { "name": "Dorumon", "post": ["Dorumon1", "Dorumon2", "Dorumon3", "Dorumon4", "Drimogemon", "Dorumon6"] },
+  { "name": "Dorumon", "post": ["Raptordramon", "Airdramon", "Sangloupmon", "Dorumon4", "Drimogemon", "Dorugamon"] },
 
-  { "name": "Dorumon1", "post": [] },
-  { "name": "Dorumon2", "post": [] },
-  { "name": "Dorumon3", "post": [] },
+  { "name": "Raptordramon", "post": [] },
+  { "name": "Airdramon", "post": [] },
+  { "name": "Sangloupmon", "post": [] },
   { "name": "Dorumon4", "post": [] },
   { "name": "Drimogemon", "post": [] },
-  { "name": "Dorumon6", "post": [] },
+  { "name": "Dorugamon", "post": [] },
   
   { "name": "Monodramon", "post": ["Strikedramon", "Raptordramon", "Deltamon", "Kurisarimon", "Cyclonemon"] },
 
   { "name": "Strikedramon", "post": [] },
   { "name": "Raptordramon", "post": [] },
   { "name": "Deltamon", "post": [] },
+  { "name": "Kurisarimon", "post": [] },
+  { "name": "Cyclonemon", "post": [] },
   
-  { "name": "SnowGoblimon", "post": ["SnowGoblimon1", "SnowGoblimon2", "Frigimon", "SnowGoblimon4", "IceDevimon", "SnowGoblimon6"] },
+  { "name": "SnowGoblimon", "post": ["Gatomon", "Monochromon", "Frigimon", "Hyogamon", "IceDevimon", "SnowGoblimon6"] },
 
-  { "name": "SnowGoblimon1", "post": [] },
-  { "name": "SnowGoblimon2", "post": [] },
+  { "name": "Gatomon", "post": [] },
+  { "name": "Monochromon", "post": [] },
   { "name": "Frigimon", "post": [] },
-  { "name": "SnowGoblimon4", "post": [] },
+  { "name": "Hyogamon", "post": [] },
+  { "name": "IceDevimon", "post": [] },
   { "name": "SnowGoblimon6", "post": [] },
   
-  { "name": "Lopmon", "post": ["Lopmon1", "Lopmon2", "Lopmon3", "Lopmon4", "Lopmon5", "MudFrigimon"] },
+  { "name": "Lopmon", "post": ["Grizzlymon", "Minotarumon", "Leomon", "Turuiemon", "Wendigomon", "MudFrigimon"] },
 
-  { "name": "Lopmon1", "post": [] },
-  { "name": "Lopmon2", "post": [] },
-  { "name": "Lopmon3", "post": [] },
-  { "name": "Lopmon4", "post": [] },
-  { "name": "Lopmon5", "post": [] },
+  { "name": "Grizzlymon", "post": [] },
+  { "name": "Minotarumon", "post": [] },
+  { "name": "Leomon", "post": [] },
+  { "name": "Turuiemon", "post": [] },
+  { "name": "Wendigomon", "post": [] },
   { "name": "MudFrigimon", "post": [] },
   
 
