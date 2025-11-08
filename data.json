@@ -415,58 +415,95 @@
 
   { "name": "Tokomon", "post": ["Patamon", "Coronamon", "Terriermon", "Armadillomon", "Lucemon"] },
 
-  { "name": "Patamon", "post": ["Angemon", "Patamon2", "Patamon3", "Patamon4", "Patamon5", "Patamon6"] },
+  { "name": "Patamon", "post": ["Angemon", "Pegasusmon", "Unimon", "Centarumon"] },
 
   { "name": "Angemon", "post": [] },
-  { "name": "Patamon2", "post": [] },
-  { "name": "Patamon3", "post": [] },
-  { "name": "Patamon4", "post": [] },
-  { "name": "Patamon5", "post": [] },
-  { "name": "Patamon6", "post": [] },
+  { "name": "Pegasusmon", "post": [] },
+  { "name": "Unimon", "post": [] },
+  { "name": "Centarumon", "post": [] },
   
-  { "name": "Coronamon", "post": ["Firamon", "Meramon", "Coronamon3", "Coronamon4", "Coronamon5", "Coronamon6"] },
+  { "name": "Coronamon", "post": ["Firamon", "Meramon", "Growlmon", "Coronamon4", "Birdramon", "Coronamon6"] },
 
   { "name": "Firamon", "post": [] },
   { "name": "Meramon", "post": [] },
-  { "name": "Coronamon3", "post": [] },
+  { "name": "Growlmon", "post": [] },
   { "name": "Coronamon4", "post": [] },
-  { "name": "Coronamon5", "post": [] },
+  { "name": "Birdramon", "post": [] },
   { "name": "Coronamon6", "post": [] },
 
-  { "name": "Terriermon", "post": ["Mojyamon", "Terriermon2", "Terriermon3", "Gargomon", "Terriermon5"] },
+  { "name": "Terriermon", "post": ["Mojyamon", "Lekismon", "Terriermon3", "Gargomon", "Terriermon5"] },
 
   { "name": "Mojyamon", "post": [] },
-  { "name": "Terriermon2", "post": [] },
+  { "name": "Lekismon", "post": [] },
   { "name": "Terriermon3", "post": [] },
   { "name": "Gargomon", "post": [] },
   { "name": "Terriermon5", "post": [] },
   
-  { "name": "Armadillomon", "post": ["Armadillomon1", "Armadillomon2", "Armadillomon3", "Ankylomon"] },
+  { "name": "Armadillomon", "post": ["Armadillomon1", "Submarimon", "Golemon", "Ankylomon"] },
 
   { "name": "Armadillomon1", "post": [] },
-  { "name": "Armadillomon2", "post": [] },
-  { "name": "Armadillomon3", "post": [] },
+  { "name": "Submarimon", "post": [] },
+  { "name": "Golemon", "post": [] },
   { "name": "Ankylomon", "post": [] },
 
-  { "name": "Lucemon", "post": [] },
+  { "name": "Lucemon", "post": ["Lucemon1"] },
+
+  { "name": "Lucemon1", "post": [] },
 
 
   { "name": "Punimon", "post": ["Tsunomon", "Nyaromon"] },
 
   { "name": "Tsunomon", "post": ["Goblimon", "Veemon", "Gabumon", "Ryudamon", "Elecmon", "Zubamon"] },
 
-  { "name": "Goblimon", "post": ["Golemon", "Goblimon2", "Deltamon", "Goblimon4", "Ogremon"] },
+  { "name": "Goblimon", "post": ["Golemon", "Wendigomon", "Deltamon", "Tuskmon", "Ogremon"] },
 
   { "name": "Golemon", "post": [] },
-  { "name": "Goblimon2", "post": [] },
-  { "name": "Goblimon4", "post": [] },
+  { "name": "Wendigomon", "post": [] },
+  { "name": "Deltamon", "post": [] },
+  { "name": "Tuskmon", "post": [] },
   { "name": "Ogremon", "post": [] },
   
-  { "name": "Veemon", "post": [] },
-  { "name": "Gabumon", "post": [] },
-  { "name": "Ryudamon", "post": [] },
-  { "name": "Elecmon", "post": [] },
-  { "name": "Zubamon", "post": [] },
+  { "name": "Veemon", "post": ["Veemon1", "Veemon2", "Lighdramon", "Veemon4", "Flamedramon"] },
+
+  { "name": "Veemon1", "post": [] },
+  { "name": "Veemon2", "post": [] },
+  { "name": "Lighdramon", "post": [] },
+  { "name": "Veemon4", "post": [] },
+  { "name": "Flamedramon", "post": [] },
+
+  { "name": "Gabumon", "post": ["Garurumon", "Ikkakumon", "Drimogemon", "Kyubimon", "Geremon", "Gabumon6"] },
+
+  { "name": "Garurumon", "post": [] },
+  { "name": "Ikkakumon", "post": [] },
+  { "name": "Drimogemon", "post": [] },
+  { "name": "Kyubimon", "post": [] },
+  { "name": "Geremon", "post": [] },
+  { "name": "Gabumon6", "post": [] },
+
+  { "name": "Ryudamon", "post": ["Reppamon", "Coelamon", "Ginryumon", "Greymon", "Monochromon"] },
+
+  { "name": "Reppamon", "post": [] },
+  { "name": "Coelamon", "post": [] },
+  { "name": "Ginryumon", "post": [] },
+  { "name": "Greymon", "post": [] },
+  { "name": "Monochromon", "post": [] },
+
+  { "name": "Elecmon", "post": ["Aegiomon", "Seadramon", "Unimon", "Kuwagamon", "Gekomon"] },
+
+  { "name": "Aegiomon", "post": [] },
+  { "name": "Seadramon", "post": [] },
+  { "name": "Unimon", "post": [] },
+  { "name": "Kuwagamon", "post": [] },
+  { "name": "Gekomon", "post": [] },
+
+  { "name": "Zubamon", "post": ["Musyamon", "Buraimon", "Tankmon", "ZubaEagermon", "Ankylomon", "Guardromon (Gold)"] },
+
+  { "name": "Musyamon", "post": [] },
+  { "name": "Buraimon", "post": [] },
+  { "name": "Tankmon", "post": [] },
+  { "name": "ZubaEagermon", "post": [] },
+  { "name": "Ankylomon", "post": [] },
+  { "name": "Guardromon (Gold)", "post": [] },
 
   { "name": "Nyaromon", "post": ["Lunamon", "Kudamon", "Salamon", "Huckmon"] },
 
