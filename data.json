@@ -292,13 +292,12 @@
 
   { "name": "Koromon", "post": ["Agumon", "Guilmon", "Dracomon", "Kotemon", "Betamon", "Shoutmon"] },
 
-  { "name": "Agumon", "post": ["Raptordramon", "GeoGreymon", "Numemon", "Greymon", "Agumon5", "Agumon6"] },
+  { "name": "Agumon", "post": ["Raptordramon", "GeoGreymon", "Numemon", "Greymon", "Coredramon (Green)", "Agumon6"] },
 
   { "name": "Raptordramon", "post": [] },
   { "name": "GeoGreymon", "post": [] },
   { "name": "Numemon", "post": [] },
   { "name": "Greymon", "post": [] },
-  { "name": "Agumon5", "post": [] },
   { "name": "Agumon6", "post": [] },
   
   { "name": "Guilmon", "post": ["GeoGreymon", "Growlmon", "ExVeemon", "Tyrannomon", "Greymon (Blue)"] },
@@ -308,12 +307,11 @@
   { "name": "Tyrannomon", "post": [] },
   { "name": "Greymon (Blue)", "post": [] },
 
-  { "name": "Dracomon", "post": ["Dracomon1", "Coredramon (Blue)", "Deltamon", "Dracomon4", "Seadramon", "Tyrannomon"] },
+  { "name": "Dracomon", "post": ["Coredramon (Green)", "Coredramon (Blue)", "Deltamon", "Veedramon", "Seadramon", "Tyrannomon"] },
 
-  { "name": "Dracomon1", "post": [] },
+  { "name": "Coredramon (Green)", "post": [] },
   { "name": "Coredramon (Blue)", "post": [] },
   { "name": "Deltamon", "post": [] },
-  { "name": "Dracomon4", "post": [] },
   { "name": "Seadramon", "post": [] },
   { "name": "Tyrannomon", "post": [] },
   
@@ -430,10 +428,10 @@
   { "name": "Tuskmon", "post": [] },
   { "name": "Ogremon", "post": [] },
   
-  { "name": "Veemon", "post": ["ExVeemon", "Veemon2", "Lighdramon", "Veemon4", "Flamedramon"] },
+  { "name": "Veemon", "post": ["ExVeemon", "Veedramon", "Lighdramon", "Veemon4", "Flamedramon"] },
 
   { "name": "ExVeemon", "post": [] },
-  { "name": "Veemon2", "post": [] },
+  { "name": "Veedramon", "post": [] },
   { "name": "Lighdramon", "post": [] },
   { "name": "Veemon4", "post": [] },
   { "name": "Flamedramon", "post": [] },
@@ -484,11 +482,10 @@
   { "name": "Kudamon5", "post": [] },
   { "name": "Sorcermon", "post": [] },
   
-  { "name": "Salamon", "post": ["Gatomon", "Sangloupmon", "Dobermon", "Ikkakumon", "Salamon5", "Drimogemon"] },
+  { "name": "Salamon", "post": ["Gatomon", "Sangloupmon", "Dobermon", "Ikkakumon", "Veedramon", "Drimogemon"] },
 
   { "name": "Gatomon", "post": [] },
   { "name": "Dobermon", "post": [] },
-  { "name": "Salamon5", "post": [] },
   { "name": "Drimogemon", "post": [] },
 
   { "name": "Huckmon", "post": ["Gatomon", "GeoGreymon", "Growlmon", "Huckmon4", "Greymon"] },
