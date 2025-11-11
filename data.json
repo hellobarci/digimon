@@ -341,9 +341,8 @@
   { "name": "ShellNumemon", "post": [] },
   { "name": "Sorcermon", "post": [] },
   
-  { "name": "Crabmon", "post": ["Crabmon1", "Octomon", "Shellmon", "Raremon", "Snimon", "Coelamon"] },
+  { "name": "Crabmon", "post": ["Gawappamon", "Octomon", "Shellmon", "Raremon", "Snimon", "Coelamon"] },
 
-  { "name": "Crabmon1", "post": [] },
   { "name": "Octomon", "post": [] },
   { "name": "Shellmon", "post": [] },
   { "name": "Raremon", "post": [] },
@@ -390,10 +389,9 @@
   { "name": "Birdramon", "post": [] },
   { "name": "Coronamon6", "post": [] },
 
-  { "name": "Terriermon", "post": ["Mojyamon", "Lekismon", "Terriermon3", "Gargomon", "Terriermon5"] },
+  { "name": "Terriermon", "post": ["Mojyamon", "Lekismon", "Gawappamon", "Gargomon", "Terriermon5"] },
 
   { "name": "Mojyamon", "post": [] },
-  { "name": "Terriermon3", "post": [] },
   { "name": "Gargomon", "post": [] },
   { "name": "Terriermon5", "post": [] },
   
