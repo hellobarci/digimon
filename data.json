@@ -59,11 +59,11 @@
   { "name": "Shurimon", "post": [] },
   { "name": "Aquilamon", "post": [] },
   
-  { "name": "Hyokomon", "post": ["Peckmon", "Birdramon", "Hyokomon3", "Buraimon"] },
+  { "name": "Hyokomon", "post": ["Peckmon", "Birdramon", "Dinohyumon", "Buraimon"] },
 
   { "name": "Peckmon", "post": [] },
   { "name": "Birdramon", "post": [] },
-  { "name": "Hyokomon3", "post": [] },
+  { "name": "Dinohyumon", "post": [] },
   { "name": "Buraimon", "post": [] },
   
   { "name": "Muchomon", "post": ["Airdramon", "Peckmon", "Birdramon", "Fugamon"] },
@@ -312,11 +312,10 @@
   { "name": "Seadramon", "post": [] },
   { "name": "Tyrannomon", "post": [] },
   
-  { "name": "Kotemon", "post": ["Turuiemon", "Musyamon", "Kotemon3", "Kotemon4", "Coredramon (Blue)"] },
+  { "name": "Kotemon", "post": ["Turuiemon", "Musyamon", "Kotemon3", "Dinohyumon", "Coredramon (Blue)"] },
 
   { "name": "Musyamon", "post": [] },
   { "name": "Kotemon3", "post": [] },
-  { "name": "Kotemon4", "post": [] },
   { "name": "Coredramon (Blue)", "post": [] },
   
   { "name": "Betamon", "post": ["Seadramon", "Coelamon", "Devimon", "Numemon", "Vegiemon", "Tuskmon"] },
@@ -336,13 +335,12 @@
 
   { "name": "Bukamon", "post": ["Kamemon", "Crabmon", "Gomamon", "Gizamon", "Syakomon"] },
 
-  { "name": "Kamemon", "post": ["Kamemon1", "Octomon", "Shellmon", "ShellNumemon", "Kamemon5", "Sorcermon"] },
+  { "name": "Kamemon", "post": ["Gawappamon", "Octomon", "Shellmon", "ShellNumemon", "Dinohyumon", "Sorcermon"] },
 
-  { "name": "Kamemon1", "post": [] },
+  { "name": "Gawappamon", "post": [] },
   { "name": "Octomon", "post": [] },
   { "name": "Shellmon", "post": [] },
   { "name": "ShellNumemon", "post": [] },
-  { "name": "Kamemon5", "post": [] },
   { "name": "Sorcermon", "post": [] },
   
   { "name": "Crabmon", "post": ["Crabmon1", "Octomon", "Shellmon", "Raremon", "Snimon", "Coelamon"] },
