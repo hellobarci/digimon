@@ -178,13 +178,13 @@
   { "name": "Coredramon (Blue)", "post": [] },
   { "name": "Greymon (Blue)", "post": [] },
   
-  { "name": "Gabumon (Black)", "post": ["Minotarumon", "BlackGatomon", "Dobermon", "Dorugamon", "Fugamon", "Gabumon (Black)6"] },
+  { "name": "Gabumon (Black)", "post": ["Minotarumon", "BlackGatomon", "Dobermon", "Dorugamon", "Fugamon", "Garurumon (Black)"] },
 
   { "name": "Minotarumon", "post": [] },
   { "name": "BlackGatomon", "post": [] },
   { "name": "Dobermon", "post": [] },
   { "name": "Fugamon", "post": [] },
-  { "name": "Gabumon (Black)6", "post": [] },
+  { "name": "Garurumon (Black)", "post": [] },
 
 
   { "name": "Choromon", "post": ["Kapurimon"] },
@@ -238,19 +238,17 @@
   { "name": "Bakemon", "post": [] },
   { "name": "Unimon", "post": [] },
   
-  { "name": "Bearmon", "post": ["Grizzlymon", "Gaogamon", "Mojyamon", "Leomon", "Bearmon5"] },
+  { "name": "Bearmon", "post": ["Grizzlymon", "Gaogamon", "Mojyamon", "Leomon", "Garurumon (Black)"] },
 
   { "name": "Grizzlymon", "post": [] },
   { "name": "Mojyamon", "post": [] },
   { "name": "Leomon", "post": [] },
-  { "name": "Bearmon5", "post": [] },
   
-  { "name": "Renamon", "post": ["Lekismon", "Sunflowmon", "Reppamon", "Kyubimon", "Renamon5"] },
+  { "name": "Renamon", "post": ["Lekismon", "Sunflowmon", "Reppamon", "Kyubimon", "Garurumon (Black)"] },
 
   { "name": "Sunflowmon", "post": [] },
   { "name": "Reppamon", "post": [] },
   { "name": "Kyubimon", "post": [] },
-  { "name": "Renamon5", "post": [] },
 
   { "name": "Dorimon", "post": ["Dorumon", "Monodramon", "SnowGoblimon", "Lopmon"] },
 
