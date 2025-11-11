@@ -256,11 +256,10 @@
 
   { "name": "Dorimon", "post": ["Dorumon", "Monodramon", "SnowGoblimon", "Lopmon"] },
 
-  { "name": "Dorumon", "post": ["Raptordramon", "Airdramon", "Sangloupmon", "Dorumon4", "Drimogemon", "Dorugamon"] },
+  { "name": "Dorumon", "post": ["Raptordramon", "Airdramon", "Sangloupmon", "ExVeemon", "Drimogemon", "Dorugamon"] },
 
   { "name": "Raptordramon", "post": [] },
   { "name": "Airdramon", "post": [] },
-  { "name": "Dorumon4", "post": [] },
   { "name": "Drimogemon", "post": [] },
   { "name": "Dorugamon", "post": [] },
   
@@ -302,11 +301,10 @@
   { "name": "Agumon5", "post": [] },
   { "name": "Agumon6", "post": [] },
   
-  { "name": "Guilmon", "post": ["GeoGreymon", "Growlmon", "Guilmon3", "Tyrannomon", "Greymon (Blue)"] },
+  { "name": "Guilmon", "post": ["GeoGreymon", "Growlmon", "ExVeemon", "Tyrannomon", "Greymon (Blue)"] },
 
   { "name": "GeoGreymon", "post": [] },
   { "name": "Growlmon", "post": [] },
-  { "name": "Guilmon3", "post": [] },
   { "name": "Tyrannomon", "post": [] },
   { "name": "Greymon (Blue)", "post": [] },
 
@@ -432,9 +430,9 @@
   { "name": "Tuskmon", "post": [] },
   { "name": "Ogremon", "post": [] },
   
-  { "name": "Veemon", "post": ["Veemon1", "Veemon2", "Lighdramon", "Veemon4", "Flamedramon"] },
+  { "name": "Veemon", "post": ["ExVeemon", "Veemon2", "Lighdramon", "Veemon4", "Flamedramon"] },
 
-  { "name": "Veemon1", "post": [] },
+  { "name": "ExVeemon", "post": [] },
   { "name": "Veemon2", "post": [] },
   { "name": "Lighdramon", "post": [] },
   { "name": "Veemon4", "post": [] },
