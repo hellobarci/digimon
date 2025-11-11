@@ -395,9 +395,9 @@
   { "name": "Gargomon", "post": [] },
   { "name": "Terriermon5", "post": [] },
   
-  { "name": "Armadillomon", "post": ["Armadillomon1", "Submarimon", "Golemon", "Ankylomon"] },
+  { "name": "Armadillomon", "post": ["Digmon", "Submarimon", "Golemon", "Ankylomon"] },
 
-  { "name": "Armadillomon1", "post": [] },
+  { "name": "Digmon", "post": [] },
   { "name": "Submarimon", "post": [] },
   { "name": "Golemon", "post": [] },
   { "name": "Ankylomon", "post": [] },
